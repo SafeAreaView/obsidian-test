@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"f4506cf0e89c8eab","type":"text","text":"канвас","x":-500,"y":-130,"width":250,"height":60},
+		{"id":"f4e89e68e830f5b8","type":"file","file":"mamka/file.md","x":-200,"y":-300,"width":400,"height":400}
+	],
+	"edges":[
+		{"id":"10698c012a406091","fromNode":"f4506cf0e89c8eab","fromSide":"right","toNode":"f4e89e68e830f5b8","toSide":"left"}
+	]
+}
